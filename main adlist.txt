@@ -49499,3 +49499,4 @@
 0.0.0.0 metrics.mzstatic.com
 0.0.0.0 browser.sentry-cdn.com
 0.0.0.0 appmetrica.yandex.ru
+0.0.0.0 improving.duckduckgo.com
