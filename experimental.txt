@@ -1,13 +1,14 @@
-cdg1-128-116-122-3.roblox.com
-iad4-128-116-102-3.roblox.com
-lhr2-128-116-119-3.roblox.com
-lms.roblox.com
-locale.roblox.com
-metric.roblox.com
-mia2-128-116-127-3.roblox.com
-sea1-128-116-115-3.roblox.com
-syd1-128-116-51-3.roblox.com
-c0cfly.rbxcdn.com
-c0hw.rbxcdn.com
-aws-ap-east-1a-lms.rbx.com
-ropro.io
+0.0.0.0 cdg1-128-116-122-3.roblox.com
+0.0.0.0 iad4-128-116-102-3.roblox.com
+0.0.0.0 lhr2-128-116-119-3.roblox.com
+0.0.0.0 lms.roblox.com
+0.0.0.0 locale.roblox.com
+0.0.0.0 metric.roblox.com
+0.0.0.0 mia2-128-116-127-3.roblox.com
+0.0.0.0 sea1-128-116-115-3.roblox.com
+0.0.0.0 syd1-128-116-51-3.roblox.com
+0.0.0.0 c0cfly.rbxcdn.com
+0.0.0.0 c0hw.rbxcdn.com
+0.0.0.0 aws-ap-east-1a-lms.rbx.com
+0.0.0.0 ropro.io
+0.0.0.0 
