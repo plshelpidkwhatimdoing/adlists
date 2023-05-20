@@ -1,5 +1,4 @@
 0.0.0.0 100percentfedup.com
-0.0.0.0 20minutenews.com
 0.0.0.0 21stcenturywire.com
 0.0.0.0 365usanews.com
 0.0.0.0 4threvolutionarywar.wordpress.com
