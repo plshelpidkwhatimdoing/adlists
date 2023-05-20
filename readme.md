@@ -4,11 +4,16 @@ if you want to use this, feel free
 I have gone through them and there should be no duplicate domains in any of these lists
 
 - ads and trackers: list of trackers and some ads I didnt put in the main list
-- amp hosts: accelerated mobile pages (amp) domains that often are ads or trackers
+- amp hosts: a list of accelerated mobile pages (amp) domains that often are ads or trackers
 - cryptojacking: list of domains that hijack your device for cryptomining
 - experimental: a short list of domains that I put there to see if blocking them breaks anything
-- main adlist: list of a lot of ad domains
+- fake news: a list a fake news sites
+- gambling: list of known gambling sites
+- main adlist: a long list of ad domains
 - malicious: list of domains used for malware
-- malware, fake news, gambling, and porn: compilation of sites used for those purposes
-- phishing: list of sites known for phishing
+- phishing: a list of sites used for phishing
+- porn: list of useless porn sites
 - scam: list of domains known for scamming
+- suspicious: a list of suspicious sites you probably shouldn't visit
+- tiktok: list of everything tiktok
+- youtubeads: list of domains used for youtube ads (won't be perfect)
