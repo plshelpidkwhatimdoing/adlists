@@ -18,3 +18,4 @@
 0.0.0.0 people-pa.clients6.google.com
 0.0.0.0 addons-pa.clients6.google.com
 0.0.0.0 espresso-pa.clients.google.com
+0.0.0.0 server-54-192-51-19.yul62.r.cloudfront.net
