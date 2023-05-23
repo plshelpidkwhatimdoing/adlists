@@ -17,3 +17,4 @@
 0.0.0.0 peoplestack-pa.clients6.google.com
 0.0.0.0 people-pa.clients6.google.com
 0.0.0.0 addons-pa.clients6.google.com
+0.0.0.0 espresso-pa.clients.google.com
