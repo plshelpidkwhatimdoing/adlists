@@ -19,3 +19,16 @@
 0.0.0.0 addons-pa.clients6.google.com
 0.0.0.0 espresso-pa.clients.google.com
 0.0.0.0 server-54-192-51-19.yul62.r.cloudfront.net
+0.0.0.0 server-54-192-51-26.yul62.r.cloudfront.net
+0.0.0.0 server-54-192-51-98.yul62.r.cloudfront.net
+0.0.0.0 104.16.154.36 #cloudflare datacenter
+0.0.0.0 172.64.150.233 #cloudflare datacenter
+0.0.0.0 52.226.139.185 #microsoft datacenter
+0.0.0.0 40.126.29.8 #microsoft datacenter
+0.0.0.0 settings-prod-uks-1.uksouth.cloudapp.azure.com
+0.0.0.0 glb.sls.prod.dcat.dsp.trafficmanager.net
+0.0.0.0 a23-58-127-162.deploy.static.akamaitechnologies.com
+0.0.0.0 162-254-193-102.valve.net
+0.0.0.0 a23-43-243-144.deploy.static.akamaitechnologies.com
+0.0.0.0 unn-37-19-198-173.datapacket.com
+0.0.0.0 a23-222-59-146.deploy.static.akamaitechnologies.com
