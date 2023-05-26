@@ -26,8 +26,11 @@
 0.0.0.0 104.18.15.49 #cloudflare datacenter
 0.0.0.0 104.18.14.49 #cloudflare datacenter
 0.0.0.0 104.16.155.36 #cloudflare datacenter
+0.0.0.0 104.26.11.110 #cloudflare datacenter
 0.0.0.0 52.226.139.185 #microsoft datacenter
 0.0.0.0 40.126.29.8 #microsoft datacenter
+0.0.0.0 20.66.25.180 #microsoft datacenter
+0.0.0.0 128.116.114.3 #something roblox
 0.0.0.0 settings-prod-uks-1.uksouth.cloudapp.azure.com
 0.0.0.0 glb.sls.prod.dcat.dsp.trafficmanager.net
 0.0.0.0 a23-58-127-162.deploy.static.akamaitechnologies.com
