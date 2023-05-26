@@ -24,6 +24,8 @@
 0.0.0.0 104.16.154.36 #cloudflare datacenter
 0.0.0.0 172.64.150.233 #cloudflare datacenter
 0.0.0.0 104.18.15.49 #cloudflare datacenter
+0.0.0.0 104.18.14.49 #cloudflare datacenter
+0.0.0.0 104.16.155.36 #cloudflare datacenter
 0.0.0.0 52.226.139.185 #microsoft datacenter
 0.0.0.0 40.126.29.8 #microsoft datacenter
 0.0.0.0 settings-prod-uks-1.uksouth.cloudapp.azure.com
