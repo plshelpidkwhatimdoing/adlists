@@ -41,3 +41,11 @@
 0.0.0.0 162-254-192-87.valve.net
 0.0.0.0 a23-55-235-75.deploy.static.akamaitechnologies.com
 0.0.0.0 a104-102-251-17.deploy.static.akamaitechnologies.com
+0.0.0.0 a104-126-112-97.deploy.static.akamaitechnologies.com
+0.0.0.0 162-254-192-71.valve.net
+0.0.0.0 cdn-185-199-110-133.github.com
+0.0.0.0 array804.prod.do.dsp.mp.microsoft.com
+0.0.0.0 e12437.d.akamaiedge.
+0.0.0.0 e8652.dscx.akamaiedge.net
+0.0.0.0 c-0001.c-msedge.net
+0.0.0.0 wd-prod-cp-us-west-3-fe.westus.cloudapp.azure.com
