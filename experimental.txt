@@ -1,26 +1,3 @@
-0.0.0.0 cdg1-128-116-122-3.roblox.com
-0.0.0.0 iad4-128-116-102-3.roblox.com
-0.0.0.0 lhr2-128-116-119-3.roblox.com
-0.0.0.0 lms.roblox.com
-0.0.0.0 locale.roblox.com
-0.0.0.0 metric.roblox.com
-0.0.0.0 mia2-128-116-127-3.roblox.com
-0.0.0.0 sea1-128-116-115-3.roblox.com
-0.0.0.0 syd1-128-116-51-3.roblox.com
-0.0.0.0 c0cfly.rbxcdn.com
-0.0.0.0 c0hw.rbxcdn.com
-0.0.0.0 aws-ap-east-1a-lms.rbx.com
-0.0.0.0 ropro.io
-0.0.0.0 peoplestackwebexeriments-pa.clients6.google.com
-0.0.0.0 signaler-pa.clients6.google.com
-0.0.0.0 taskassist-pa.clients6.google.com
-0.0.0.0 peoplestack-pa.clients6.google.com
-0.0.0.0 people-pa.clients6.google.com
-0.0.0.0 addons-pa.clients6.google.com
-0.0.0.0 espresso-pa.clients.google.com
-0.0.0.0 server-54-192-51-19.yul62.r.cloudfront.net
-0.0.0.0 server-54-192-51-26.yul62.r.cloudfront.net
-0.0.0.0 server-54-192-51-98.yul62.r.cloudfront.net
 0.0.0.0 104.16.154.36 #cloudflare datacenter
 0.0.0.0 172.64.150.233 #cloudflare datacenter
 0.0.0.0 104.18.15.49 #cloudflare datacenter
@@ -31,22 +8,6 @@
 0.0.0.0 40.126.29.8 #microsoft datacenter
 0.0.0.0 20.66.25.180 #microsoft datacenter
 0.0.0.0 128.116.114.3 #something roblox
-0.0.0.0 settings-prod-uks-1.uksouth.cloudapp.azure.com
-0.0.0.0 glb.sls.prod.dcat.dsp.trafficmanager.net
-0.0.0.0 a23-58-127-162.deploy.static.akamaitechnologies.com
-0.0.0.0 162-254-193-102.valve.net
-0.0.0.0 a23-43-243-144.deploy.static.akamaitechnologies.com
-0.0.0.0 unn-37-19-198-173.datapacket.com
-0.0.0.0 a23-222-59-146.deploy.static.akamaitechnologies.com
-0.0.0.0 162-254-192-87.valve.net
-0.0.0.0 a23-55-235-75.deploy.static.akamaitechnologies.com
-0.0.0.0 a104-102-251-17.deploy.static.akamaitechnologies.com
-0.0.0.0 a104-126-112-97.deploy.static.akamaitechnologies.com
-0.0.0.0 162-254-192-71.valve.net
-0.0.0.0 cdn-185-199-110-133.github.com
-0.0.0.0 array804.prod.do.dsp.mp.microsoft.com
-0.0.0.0 e12437.d.akamaiedge.
-0.0.0.0 e8652.dscx.akamaiedge.net
 0.0.0.0 c-0001.c-msedge.net
 0.0.0.0 wd-prod-cp-us-west-3-fe.westus.cloudapp.azure.com
 0.0.0.0 162-254-192-74.valve.net
