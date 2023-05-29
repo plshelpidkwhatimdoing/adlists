@@ -3,6 +3,8 @@ for adlists that I want to maintain myself
 if you want to use this, feel free
 I have gone through them and there should be no duplicate domains in any of these lists
 
+commands.txt is NOT a domain list, it just has useful commands in it that I don't want to forget
+
 - ads and trackers: list of trackers and some ads I didnt put in the main list
 - amp hosts: a list of accelerated mobile pages (amp) domains that often are ads or trackers
 - cryptojacking: list of domains that hijack your device for cryptomining
