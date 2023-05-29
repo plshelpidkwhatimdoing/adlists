@@ -49,3 +49,6 @@
 0.0.0.0 e8652.dscx.akamaiedge.net
 0.0.0.0 c-0001.c-msedge.net
 0.0.0.0 wd-prod-cp-us-west-3-fe.westus.cloudapp.azure.com
+0.0.0.0 162-254-192-74.valve.net
+0.0.0.0 server-52-84-52-94.ord53.r.cloudfront.net
+0.0.0.0 ec2-52-35-4-60.us-west-2.compute.amazonaws.com
