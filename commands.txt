@@ -1,0 +1,22 @@
+clear all logs:
+sudo service pihole-FTL stop
+sudo rm /etc/pihole/pihole-FTL.db
+sudo service pihole-FTL start
+
+credit jfb-pihole at reddit.com/r/pihole/comments/s7u6ca/guide_how_to_clear_all_pihole_logs/
+
+clear short term logs:
+sudo pihole logging off
+
+credit sindastra.de/p/183/a-note-on-pi-holes-privacy-settings
+
+get public IP of pihole (I use for headless controlling):
+(all these commands will result in the same public IP shown so pick which one you want)
+curl ifconfig.me
+curl icanhazip.com
+curl ipecho.net/plain
+curl ident.me
+curl bot.whatismyipaddress.com
+curl https://diagnostic.opendns.com/myip
+curl http://checkip.amazonaws.com
+curl http://whatismyip.akamai.com
