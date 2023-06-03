@@ -63,3 +63,9 @@
 0.0.0.0 162-254-196-68.valve.net
 0.0.0.0 a104-77-220-121.deploy.static.akamaitechnologies.com
 0.0.0.0 a23-223-209-213.deploy.static.akamaitechnologies.com
+0.0.0.0 autopush.prod.mozaws.net
+0.0.0.0 55.65.117.34.bc.googleusercontent.com
+0.0.0.0 a23-223-209-209.deploy.static.akamaitechnologies.com
+0.0.0.0 ec2-44-225-227-241.us-west-2.compute.amazonaws.com
+0.0.0.0 server-18-238-4-123.phl51.r.cloudfront.net
+0.0.0.0 a23-213-51-16.deploy.static.akamaitechnologies.com
