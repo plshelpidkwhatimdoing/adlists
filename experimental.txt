@@ -93,3 +93,4 @@
 0.0.0.0 server-54-192-51-6.yul62.r.cloudfront.net
 0.0.0.0 hearst-newspapers.map.fastly.net
 0.0.0.0 ec2-34-214-204-226.us-west-2.compute.amazonaws.com
+0.0.0.0 server-13-225-214-87.ewr50.r.cloudfront.net
