@@ -4,6 +4,7 @@
 0.0.0.0 104.18.14.49 #cloudflare datacenter
 0.0.0.0 104.16.155.36 #cloudflare datacenter
 0.0.0.0 104.26.11.110 #cloudflare datacenter
+0.0.0.0 104.18.6.36 #cloudflare datacenter
 0.0.0.0 52.226.139.185 #microsoft datacenter
 0.0.0.0 40.126.29.8 #microsoft datacenter
 0.0.0.0 20.66.25.180 #microsoft datacenter
@@ -33,3 +34,18 @@
 0.0.0.0 server-18-165-25-98.pit50.r.cloudfront.net
 0.0.0.0 fp2e7a.wpc.phicdn.
 0.0.0.0 server-18-165-25-49.pit50.r.cloudfront.net
+0.0.0.0 server-99-84-37-53.ewr52.r.cloudfront.net
+0.0.0.0 162-254-192-39.valve.net
+0.0.0.0 89-44-169-132.ip.dclux.com
+0.0.0.0 a23-39-32-116.deploy.static.akamaitechnologies.com
+0.0.0.0 ord38s30-in-f14.1e100.
+0.0.0.0 a23-223-209-197.deploy.static.akamaitechnologies.com
+0.0.0.0 a23-223-209-201.deploy.static.akamaitechnologies.com
+0.0.0.0 a23-205-8-149.deploy.static.akamaitechnologies.
+0.0.0.0 unassigned-87.236.199.239.coolhousing.net
+0.0.0.0 ns1004575.ip-51-81-93.
+0.0.0.0 162-254-192-87.valve.net
+0.0.0.0 lga34s36-in-f14.1e100.net
+0.0.0.0 a23-44-111-8.deploy.static.akamaitechnologies.
+0.0.0.0 ns1004575.ip-51-81-93.us
+0.0.0.0 tor-relay.zwiebeltoralf.de
