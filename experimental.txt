@@ -57,3 +57,6 @@
 0.0.0.0 a104-77-220-121.deploy.static.akamaitechnologies.
 0.0.0.0 a23-223-209-217.deploy.static.akamaitechnologies.com
 0.0.0.0 89-44-169-134.ip.dclux.com
+0.0.0.0 ec2-52-11-133-174.us-west-2.compute.amazonaws.com
+0.0.0.0 server-99-84-160-12.ord52.r.cloudfront.net
+0.0.0.0 ec2-52-11-133-174.us-west-2.compute.amazonaws.com
