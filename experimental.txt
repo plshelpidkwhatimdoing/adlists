@@ -53,3 +53,7 @@
 0.0.0.0 a104-104-118-140.deploy.static.akamaitechnologies.com
 0.0.0.0 eff.map.fastly.net
 0.0.0.0 cld.jaeckel-modelle.de
+0.0.0.0 lga25s73-in-f14.1e100.
+0.0.0.0 a104-77-220-121.deploy.static.akamaitechnologies.
+0.0.0.0 a23-223-209-217.deploy.static.akamaitechnologies.com
+0.0.0.0 89-44-169-134.ip.dclux.com
