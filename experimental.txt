@@ -49,3 +49,7 @@
 0.0.0.0 a23-44-111-8.deploy.static.akamaitechnologies.
 0.0.0.0 ns1004575.ip-51-81-93.us
 0.0.0.0 tor-relay.zwiebeltoralf.de
+0.0.0.0 162-254-192-71.valve.net
+0.0.0.0 a104-104-118-140.deploy.static.akamaitechnologies.com
+0.0.0.0 eff.map.fastly.net
+0.0.0.0 cld.jaeckel-modelle.de
