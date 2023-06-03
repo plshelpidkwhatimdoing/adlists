@@ -81,3 +81,15 @@
 0.0.0.0 a23-200-3-22.deploy.static.akamaitechnologies.com
 0.0.0.0 a1931.dscgi3.akamai.net
 0.0.0.0 iphone-ld.origin-apple.com.akadns.net
+0.0.0.0 a23-192-40-180.deploy.static.akamaitechnologies.com
+0.0.0.0 mesu.g.aaplimg.com
+0.0.0.0 mesu-cdn.origin-apple.com.akadns.net
+0.0.0.0 lb-140-82-113-25-iad.github.com
+0.0.0.0 cdn-185-199-109-133.github.com
+0.0.0.0 jsdelivr.map.fastly.net
+0.0.0.0 25.251.237.35.bc.googleusercontent.com
+0.0.0.0 a23-192-24-195.deploy.static.akamaitechnologies.com
+0.0.0.0 e4847.g.akamaiedge.net
+0.0.0.0 server-54-192-51-6.yul62.r.cloudfront.net
+0.0.0.0 hearst-newspapers.map.fastly.net
+0.0.0.0 ec2-34-214-204-226.us-west-2.compute.amazonaws.com
