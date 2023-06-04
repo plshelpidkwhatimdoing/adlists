@@ -54,7 +54,6 @@
 0.0.0.0 ec2-52-200-29-163.compute-1.amazonaws.com
 0.0.0.0 ec2-44-208-144-33.compute-1.amazonaws.com
 0.0.0.0 dualstack.reddit.map.fastly.net
-0.0.0.0 reddit.map.fastly.net
 0.0.0.0 ec2-35-153-245-194.compute-1.amazonaws.com
 0.0.0.0 lb-140-82-114-26-iad.github.com
 0.0.0.0 server-52-85-61-9.ewr53.r.cloudfront.net
