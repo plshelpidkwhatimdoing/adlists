@@ -56,3 +56,13 @@
 0.0.0.0 ec2-35-153-245-194.compute-1.amazonaws.com
 0.0.0.0 lb-140-82-114-26-iad.github.com
 0.0.0.0 server-52-85-61-9.ewr53.r.cloudfront.net
+0.0.0.0 ec2-52-40-73-78.us-west-2.compute.amazonaws.com
+0.0.0.0 server-52-84-45-33.mrs52.r.cloudfront.net
+0.0.0.0 us-central-bd2.roblox.com
+0.0.0.0 server-54-230-112-80.mrs52.r.cloudfront.net
+0.0.0.0 a23-206-121-146.deploy.static.akamaitechnologies.com
+0.0.0.0 ec2-35-164-223-135.us-west-2.compute.amazonaws.com
+0.0.0.0 cs11.wpc.v0cdn.net
+0.0.0.0 a23-192-58-200.deploy.static.akamaitechnologies.com
+0.0.0.0 server-18-161-94-97.mrs52.r.cloudfront.net
+0.0.0.0 server-54-230-112-27.mrs52.r.cloudfront.net
