@@ -219,3 +219,8 @@
 0.0.0.0 server-108-139-29-83.jfk50.r.cloudfront.net
 0.0.0.0 server-108-139-29-84.jfk50.r.cloudfront.net
 0.0.0.0 server-108-139-29-49.jfk50.r.cloudfront.net
+0.0.0.0 a23-223-209-217.deploy.static.akamaitechnologies.com
+0.0.0.0 a23-197-193-155.deploy.static.akamaitechnologies.com
+0.0.0.0 ec2-44-230-65-33.us-west-2.compute.amazonaws.com
+0.0.0.0 ec2-34-209-53-34.us-west-2.compute.amazonaws.com
+0.0.0.0 server-13-225-63-106.ewr53.r.cloudfront.net
