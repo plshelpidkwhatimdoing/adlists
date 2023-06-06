@@ -224,3 +224,4 @@
 0.0.0.0 ec2-34-209-53-34.us-west-2.compute.amazonaws.com
 0.0.0.0 server-13-225-63-106.ewr53.r.cloudfront.net
 0.0.0.0 server-18-165-9-62.pit50.r.cloudfront.net
+0.0.0.0 server-18-164-78-114.atl58.r.cloudfront.net
