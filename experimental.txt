@@ -226,3 +226,14 @@
 0.0.0.0 server-18-165-9-62.pit50.r.cloudfront.net
 0.0.0.0 server-18-164-78-114.atl58.r.cloudfront.net
 0.0.0.0 a23-223-209-197.deploy.static.akamaitechnologies.com
+0.0.0.0 a23-204-152-136.deploy.static.akamaitechnologies.com
+0.0.0.0 a184-29-143-160.deploy.static.akamaitechnologies.com
+0.0.0.0 server-18-160-78-3.atl59.r.cloudfront.net
+0.0.0.0 ec2-50-112-178-55.us-west-2.compute.amazonaws.com
+0.0.0.0 e87.b.akamaiedge.net
+0.0.0.0 e-0012.e-msedge.net
+0.0.0.0 privacy.xboxlive.com.akadns.net
+0.0.0.0 notificationinbox.xboxlive.com.akadns.net
+0.0.0.0 rta.xboxlive.com.akadns.net
+0.0.0.0 xgrant.xboxlive.com.akadns.net
+0.0.0.0 lfghub-anonymous-mpsdshim.xboxlive.com.akadns.net
