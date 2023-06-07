@@ -237,3 +237,17 @@
 0.0.0.0 rta.xboxlive.com.akadns.net
 0.0.0.0 xgrant.xboxlive.com.akadns.net
 0.0.0.0 lfghub-anonymous-mpsdshim.xboxlive.com.akadns.net
+0.0.0.0 server-52-222-214-73.fra56.r.cloudfront.net
+0.0.0.0 162-254-192-87.valve.net
+0.0.0.0 https-69-164-46-128.jfk.llnw.net
+0.0.0.0 server-18-66-147-9.fra60.r.cloudfront.net
+0.0.0.0 server-13-32-121-47.fra60.r.cloudfront.
+0.0.0.0 cds.d2s7q6s2.hwcdn.net
+0.0.0.0 vip0x008.map2.ssl.hwcdn.net
+0.0.0.0 array803.prod.do.dsp.mp.microsoft.com
+0.0.0.0 a104-77-248-103.deploy.static.akamaitechnologies.com
+0.0.0.0 e10370.d.akamaiedge.net
+0.0.0.0 cs-geo-dds.trafficmanager.net
+0.0.0.0 server-13-32-151-110.iad66.r.cloudfront.net
+0.0.0.0 ec2-54-149-25-69.us-west-2.compute.amazonaws.com
+0.0.0.0 ec2-34-213-64-108.us-west-2.compute.amazonaws.com
