@@ -12,7 +12,6 @@
 0.0.0.0 40.126.28.23#microsoftdatacenter
 0.0.0.0 20.190.139.171#microsoftdatacenter
 0.0.0.0 128.116.114.3#somethingroblox
-0.0.0.0 us-central-bd2.roblox.com
 0.0.0.0 a23-223-209-206.deploy.static.akamaitechnologies.com
 0.0.0.0 a23-223-209-199.deploy.static.akamaitechnologies.com
 0.0.0.0 netcts.cdn-apple.com
