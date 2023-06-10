@@ -172,3 +172,6 @@
 0.0.0.0 a23-206-121-16.deploy.static.akamaitechnologies.com
 0.0.0.0 a23-206-121-37.deploy.static.akamaitechnologies.com
 0.0.0.0 89-44-169-134.ip.dclux.com
+0.0.0.0 ec2-44-207-36-98.compute-1.amazonaws.com
+0.0.0.0 ec2-107-23-183-210.compute-1.amazonaws.com
+0.0.0.0 cdn-185-199-108-133.github.com
