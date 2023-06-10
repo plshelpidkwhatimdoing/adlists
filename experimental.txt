@@ -175,3 +175,8 @@
 0.0.0.0 ec2-44-207-36-98.compute-1.amazonaws.com
 0.0.0.0 ec2-107-23-183-210.compute-1.amazonaws.com
 0.0.0.0 cdn-185-199-108-133.github.com
+0.0.0.0 ec2-44-227-219-172.us-west-2.compute.amazonaws.com
+0.0.0.0 ec2-52-3-24-249.compute-1.amazonaws.com
+0.0.0.0 ec2-3-232-92-215.compute-1.amazonaws.com
+0.0.0.0 ec2-34-225-231-202.compute-1.amazonaws.com
+0.0.0.0 cdn-185-199-109-133.github.com
