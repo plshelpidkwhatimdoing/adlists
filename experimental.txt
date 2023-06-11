@@ -183,3 +183,4 @@
 0.0.0.0 server-52-85-61-50.ewr53.r.cloudfront.net
 0.0.0.0 ec2-52-10-2-73.us-west-2.compute.amazonaws.com
 0.0.0.0 ec2-52-39-174-45.us-west-2.compute.amazonaws.com
+0.0.0.0 gsp64-ssl.ls-apple.com.akadns.net
