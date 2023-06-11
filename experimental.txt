@@ -81,7 +81,6 @@
 0.0.0.0 ec2-44-239-34-150.us-west-2.compute.amazonaws.com
 0.0.0.0 ec2-54-69-15-191.us-west-2.compute.amazonaws.com
 0.0.0.0 cognito-identity.us-west-2.amazonaws.com
-0.0.0.0 cs531.wpc.edgecastcdn.net
 0.0.0.0 mobile-data.s3.brave.com
 0.0.0.0 server-52-85-61-43.ewr53.r.cloudfront.net
 0.0.0.0 server-52-85-61-64.ewr53.r.cloudfront.net
