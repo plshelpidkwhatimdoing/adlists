@@ -91,7 +91,6 @@
 0.0.0.0 server-18-65-39-73.ams1.r.cloudfront.net
 0.0.0.0 server-18-65-39-10.ams1.r.cloudfront.net
 0.0.0.0 server-18-65-39-84.ams1.r.cloudfront.net
-0.0.0.0 733868e706dd40d3a4a0588fc39b3df8.pacloudflare.com
 0.0.0.0 15.42.188.35.bc.googleusercontent.com
 0.0.0.0 33fa1ur95-d6cvl8f5r.sentry.dev
 0.0.0.0 server-54-192-51-100.yul62.r.cloudfront.net
