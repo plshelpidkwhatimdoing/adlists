@@ -360,13 +360,10 @@
 0.0.0.0 zapmeta.com.pl
 0.0.0.0 zas.mylead.global
 0.0.0.0 0daib.pl
-0.0.0.0 5v.pl/stats.php
-0.0.0.0 adkontekst.pl$script,image
-0.0.0.0 api.solvemedia.com/papi/action$popup
+0.0.0.0 5v.pl
+0.0.0.0 api.solvemedia.com
 0.0.0.0 api.useinsider.com
 0.0.0.0 asmsalesforce.pl
-0.0.0.0 back.marketing$script,domain=~back.marketing
-0.0.0.0 back.marketing$third-party
 0.0.0.0 cassini.efigence.com
 0.0.0.0 clickcounters.com
 0.0.0.0 clk.leadexpert.pl
@@ -22482,3 +22479,5 @@
 0.0.0.0 lowest-price.eu
 0.0.0.0 www.click-1.pl
 0.0.0.0 www.lowest-price.eu
+0.0.0.0 notifications-pusher.gog.com
+0.0.0.0 client.wns.windows.com
