@@ -1,3 +1,17 @@
+0.0.0.0 block-test.developerdan.com
+0.0.0.0 cdn-social.janrain.com
+0.0.0.0 adexchanger-com.cdn.ampproject.org
+0.0.0.0 ads-servebom-com.cdn.ampproject.org
+0.0.0.0 analytics-digit-in.cdn.ampproject.org
+0.0.0.0 www.analytics-digit-in.cdn.ampproject.org
+0.0.0.0 analyticsindiamag-com.cdn.ampproject.org
+0.0.0.0 c-statcounter-com.cdn.ampproject.org
+0.0.0.0 finema-net.cdn.ampproject.org
+0.0.0.0 img1-gadgetsnow-com.cdn.ampproject.org
+0.0.0.0 static-addtoany-com.cdn.ampproject.org
+0.0.0.0 targetstudy-com.cdn.ampproject.org
+0.0.0.0 www-analyticsindiamag-com.cdn.ampproject.org
+0.0.0.0 www-google--analytics-com.cdn.ampproject.org
 0.0.0.0 amp.businessinsider.com
 0.0.0.0 amp.cinemablend.com
 0.0.0.0 amp-assets.cinemablend.com
