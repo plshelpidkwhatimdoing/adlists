@@ -26026,3 +26026,6 @@
 0.0.0.0 zyrtec-klm.blogspot.com
 0.0.0.0 zyrtec-qwq.blogspot.com
 0.0.0.0 zyrtecaustralia.net
+0.0.0.0 sanctioned-suicide.net
+0.0.0.0 sanctioned-suicide.org
+0.0.0.0 sanctionedsuicide.site
